@@ -1,3 +1,8 @@
+New in Release 1.0.4
+
+* lgmask and normalize_mri: replace ctime.pl by POSIX::ctime to
+  upgrade for Unbuntu-16.0
+
 New in Release 1.0.3
 
 * verbose = 0 in Spawn calls with stdout in a variable
